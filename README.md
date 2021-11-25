@@ -31,7 +31,8 @@ jupyter notebook
 reto/Entrega1
 ```
 
-2. Descargar los assets de https://drive.google.com/drive/folders/1C5NXTdiu3xjoH83LGqTedYbtSQPXkz13?usp=sharing y poenrlos en reto/Simulation/assets 
+2. Descargar los assets de https://drive.google.com/drive/folders/1C5NXTdiu3xjoH83LGqTedYbtSQPXkz13?usp=sharing en el caso de que no esten 
+y ponerlos en reto/Simulation/assets 
   
 ```
 3. Correrlo con Live Server
